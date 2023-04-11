@@ -21,5 +21,6 @@
   - FFmpeg
   - librosa
   - pydub
+  - Flask
 
 <br>
